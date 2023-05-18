@@ -1,0 +1,44 @@
+{
+    "pokemons": [
+      {
+        "name": "Bulbasaur",
+        "image": "assets/1.png",
+        "category": "Seed",
+        "weight": "15.2 lbs",
+        "height": "2' 04",
+        "abilities": "Overgrow"
+      },
+      {
+        "name": "Charmander",
+        "image": "assets/2.png",
+        "category": "Lizard",
+        "weight": "18.7 lbs",
+        "height": "2' 00",
+        "abilities": "Blaze"
+      },
+      {
+        "name": "Squirtle",
+        "image": "assets/3.png",
+        "category": "Tiny Turtle",
+        "weight": "19.8 lbs",
+        "height": "1' 08",
+        "abilities": "Torrent"
+      },
+      {
+        "name": "Butterfree",
+        "image": "assets/4.png",
+        "category": "Butterfly",
+        "weight": "70.5 lbs",
+        "height": "3' 07''",
+        "abilities": "Compound Eyes"
+      },
+      {
+        "name": "Pikachu",
+        "image": "assets/5.png",
+        "category": "Mouse",
+        "weight": "13.2 lbs",
+        "height": "1' 04''",
+        "abilities": "Static"
+      }
+    ]
+  }
