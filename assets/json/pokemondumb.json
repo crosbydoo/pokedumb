@@ -1,44 +1,112 @@
 {
     "pokemons": [
       {
-        "name": "Bulbasaur",
-        "image": "assets/1.png",
-        "category": "Seed",
-        "weight": "15.2 lbs",
-        "height": "2' 04",
-        "abilities": "Overgrow"
+        "name": "Rayquaza",
+        "image": "assets/images/Rayquaza.png",
+        "category": "Sky High",
+        "weight": "455.3 lbs",
+        "height": "23' 00",
+        "abilities": "Air Lock",
+        "color":"0XFF4ef284"
       },
       {
-        "name": "Charmander",
-        "image": "assets/2.png",
-        "category": "Lizard",
-        "weight": "18.7 lbs",
-        "height": "2' 00",
-        "abilities": "Blaze"
+        "name": "Giratina",
+        "image": "assets/images/Giratina.png",
+        "category": "Renegade",
+        "weight": "1653.5 lbs",
+        "height": "14' 09",
+        "abilities": "Pressure",
+        "color":"0XFF2b2e2c"
       },
       {
-        "name": "Squirtle",
-        "image": "assets/3.png",
-        "category": "Tiny Turtle",
-        "weight": "19.8 lbs",
-        "height": "1' 08",
-        "abilities": "Torrent"
+        "name": "Ho-Oh",
+        "image": "assets/images/Ho-Oh.png",
+        "category": "Rainbow",
+        "weight": "438.7 lbs",
+        "height": "21' 06",
+        "abilities": "Pressure",
+        "color":"0xffe65949"
       },
       {
-        "name": "Butterfree",
-        "image": "assets/4.png",
-        "category": "Butterfly",
-        "weight": "70.5 lbs",
-        "height": "3' 07''",
-        "abilities": "Compound Eyes"
+        "name": "Mewtwo",
+        "image": "assets/images/Mewtwo.png",
+        "category": "Genetic",
+        "weight": "269 lbs",
+        "height": "6' 07",
+        "abilities": "Pressure",
+        "color":"0XFFd620e3"
       },
       {
         "name": "Pikachu",
-        "image": "assets/5.png",
+        "image": "assets/images/Pikachu.png",
         "category": "Mouse",
         "weight": "13.2 lbs",
-        "height": "1' 04''",
-        "abilities": "Static"
+        "height": "1' 04",
+        "abilities": "Static",
+        "color":"0xffe3c220"
+      },
+      {
+        "name": "Eternatus",
+        "image": "assets/images/Eternatus.png",
+        "category": "Gigantic",
+        "weight": "2094.4 lbs",
+        "height": "65' 07",
+        "abilities": "Pressure",
+        "color":"0XFFd620e3"
+      },
+      {
+        "name": "White Kyurem",
+        "image": "assets/images/Kyurem-White.png",
+        "category": "Boundary",
+        "weight": "716.5 lbs",
+        "height": "11' 10",
+        "abilities": "Turboblaze",
+        "color":"0XFF8c8c89"
+      },
+      {
+        "name": "Black Kyurem",
+        "image": "assets/images/Kyurem-Black.png",
+        "category": "Boundary",
+        "weight": "716.5 lbs",
+        "height": "10' 10",
+        "abilities": "Teravolt",
+        "color":"0XFF8c8c89"
+      },
+      {
+        "name": "Crowned Shield Zamazenta",
+        "image": "assets/images/Zamazenta.png",
+        "category": "Warrior",
+        "weight": "1730.6 lbs",
+        "height": "9' 06",
+        "abilities": "Dauntless Shield",
+        "color":"0xffe65949"
+      },
+      {
+        "name": "Crowned Sword Zacian",
+        "image": "assets/images/Zacian.png",
+        "category": "Warrior",
+        "weight": "782.6 lbs",
+        "height": "9' 02",
+        "abilities": "Intrepid Sword",
+        "color":"0xff4396e8"
+      },
+      {
+        "name": "Complete Forme Zygarde",
+        "image": "assets/images/Zygarde-Complete.png",
+        "category": "Order",
+        "weight": "1344.8 lbs",
+        "height": "14' 09",
+        "abilities": "Power Construct",
+        "color":"0XFF4ef284"
+      },
+      {
+        "name": "Arceus",
+        "image": "assets/images/Arceus.png",
+        "category": "Alpha",
+        "weight": "705.5 lbs",
+        "height": "10' 06",
+        "abilities": "Multitype",
+        "color":"0XFFe4eaf0"
       }
     ]
   }

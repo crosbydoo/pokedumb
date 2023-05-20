@@ -1,0 +1,28 @@
+{
+    "fitur":[
+        {
+            "title":"Tipe",
+            "content":"Berdasarkan tipenya pokemon ada banyak mulai dari Bug, Dragon, Fairy, Electric dan lain - lain",
+            "img":"assets/images/Pikachu.png",
+            "color":"0XFFfcba03"
+        },
+        {
+            "title":"Kelangkaan",
+            "content":"Berdasarkan kelangkaannya pokemon memiliki rarity yang berbeda mulai dari commmon, uncommon, rare, Holo Rare, hingga Secret Rare",
+            "img":"assets/images/Mewtwo.png",
+            "color":"0XFFe90ced"
+        },
+        {
+            "title":"Kekuatan",
+            "content":"Pokemon memiliki kekuatan yang beragam seiring berjalannya waktu bahkan bisa evolusi juga, rarity dan tipe juga berpengaruh dengan power pokemon",
+            "img":"assets/images/Rayquaza.png",
+            "color":"0XFF46fa58"
+        },
+        {
+            "title":"Kode",
+            "content":"Kode yang digunakan disini adalah setiap pokemon memiliki kode unix seperti id sendiri ketika sudah terindek oleh alat pokedex dan semacamnya",
+            "img":"assets/images/Zamazenta.png",
+            "color":"0XFFa2aba3"
+        }
+    ]
+}
