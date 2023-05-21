@@ -110,16 +110,32 @@ class _HomeViewState extends State<HomeView> {
                     itemCount: poke.pokeList.length,
                     itemBuilder: (context, index, realIndex) {
                       var getPoke = poke.pokeList[index];
+                      var hexa = int.parse(getPoke.color);
                       return Column(
                         children: [
                           Expanded(
                             child: Container(
                               width: double.infinity,
                               decoration: BoxDecoration(
-                                color: Colors.blue,
+                                color: Color(hexa),
                                 borderRadius: BorderRadius.circular(12),
                               ),
-                              child: Image.asset(getPoke.image),
+                              child: Column(
+                                children: [
+                                  Image.asset(
+                                    getPoke.image,
+                                    scale: 2.5,
+                                  ),
+                                  Text(
+                                    getPoke.name,
+                                    style: GoogleFonts.poppins(
+                                      fontSize: 14,
+                                      fontWeight: FontWeight.w600,
+                                      color: Colors.white,
+                                    ),
+                                  ),
+                                ],
+                              ),
                             ),
                           ),
                         ],
